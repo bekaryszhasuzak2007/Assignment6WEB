@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+nav {
+    margin: 15px 0;
+}
+
+nav a {
+    margin: 3px;
+}
+
+li {
+    margin: 8px 0;
+}
+
+footer {
+    margin-top: 20px;
+}
